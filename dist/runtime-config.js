@@ -1,0 +1,1 @@
+window.SITE_CONFIG = {"name":"GD메트로타워","phone":"1877-2027","contact":{"endpoint":"","operator":"이상훈","email":"realestateinfo@naver.com","retention":"동의일로부터 1년","privacyApproved":false},"ga4Id":"","production":false};

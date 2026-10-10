@@ -1,0 +1,217 @@
+{
+  "name": "GD메트로타워",
+  "brandEn": "GD METRO TOWER",
+  "baseUrl": "",
+  "production": false,
+  "phone": "1877-2027",
+  "ga4Id": "",
+  "naverVerification": "",
+  "googleVerification": "",
+  "contact": {
+    "endpoint": "",
+    "operator": "이상훈",
+    "email": "realestateinfo@naver.com",
+    "retention": "동의일로부터 1년",
+    "privacyApproved": false
+  },
+  "rights": {
+    "officialImagesApproved": false,
+    "approvalReference": ""
+  },
+  "articles": [
+    {
+      "kind": "external-link",
+      "publisher": "한경비즈니스",
+      "date": "2026-10-08",
+      "title": "G밸리 직주근접 입지 수요 증가… GD메트로타워, 올가을 공급 나서",
+      "url": "https://magazine.hankyung.com/business/article/202610080895b",
+      "linkApproved": true
+    },
+    {
+      "kind": "external-link",
+      "publisher": "국토일보",
+      "date": "2026-10-01",
+      "title": "초역세권 입지·교통호재 품은 '교통 특화' 유망단지 노려라",
+      "url": "https://www.ikld.kr/news/articleView.html?idxno=341575",
+      "linkApproved": true
+    },
+    {
+      "kind": "external-link",
+      "publisher": "파이낸셜뉴스",
+      "date": "2026-10-01",
+      "title": "\"초역세권에 교통 호재까지\"...구디역·산곡역·상동역 인근 분양 주목",
+      "url": "https://www.fnnews.com/news/202610011447189999?test=y",
+      "linkApproved": true
+    },
+    {
+      "kind": "external-link",
+      "publisher": "한국경제",
+      "date": "2026-09-22",
+      "title": "GD메트로타워, 영등포 2호선 연결 주거용 오피스텔",
+      "url": "https://www.hankyung.com/article/2026092200111",
+      "linkApproved": true
+    },
+    {
+      "kind": "external-link",
+      "publisher": "한국경제",
+      "date": "2026-09-17",
+      "title": "2호선 구로디지털단지역 연결 ‘GD메트로타워’ 770실 분양",
+      "url": "https://www.hankyung.com/article/202609170377i",
+      "linkApproved": true
+    },
+    {
+      "kind": "external-link",
+      "publisher": "매일경제",
+      "date": "2026-09-16",
+      "title": "“차별화된 초역세권 프리미엄”…㈜BYC, ‘GD메트로타워’ 10월 분양",
+      "url": "https://www.mk.co.kr/news/realestate/12153989",
+      "linkApproved": true
+    },
+    {
+      "kind": "external-link",
+      "publisher": "데일리안",
+      "date": "2026-09-16",
+      "title": "BYC, 서울 영등포 'GD메트로타워' 10월 분양 예정",
+      "url": "https://www.dailian.co.kr/news/view/1691018/BYC-%EC%84%9C%EC%9A%B8-%EC%98%81%EB%93%B1%ED%8F%AC-GD%EB%A9%94%ED%8A%B8%EB%A1%9C%ED%83%80%EC%9B%8C-1-2026",
+      "linkApproved": true
+    },
+    {
+      "kind": "external-link",
+      "publisher": "파이낸셜뉴스",
+      "date": "2026-09-16",
+      "title": "BYC, 옛 본사 부지 'GD메트로타워' 10월 분양...'2호선 직통' 초역세권 대단지",
+      "url": "https://www.fnnews.com/news/202609161005111091",
+      "linkApproved": true
+    },
+    {
+      "kind": "external-link",
+      "publisher": "한국경제",
+      "date": "2026-07-16",
+      "title": "대림동 옛 BYC 본사 부지 'GD메트로타워' 복합개발 본격화",
+      "url": "https://www.hankyung.com/article/202607169595O",
+      "linkApproved": true
+    }
+  ],
+  "introText": "80년, 전문 의류 기업에서 부동산 개발 역량 까지 만들어 가는 BYC\n이제 G밸리에서 새로운 건설 역사를 만들어 갑니다.",
+  "assets": {
+    "logo": "logo.png",
+    "footerLogo": "footer_logo.png",
+    "sloganLogo": "mainVisual_logo.png",
+    "summary": "summary_left.jpg",
+    "introBackground": "intro_bg.jpg",
+    "overview": "info_intro",
+    "location": "location",
+    "premium": "premium"
+  },
+  "hero": {
+    "eyebrow": "40층 트윈타워",
+    "sub": "업무-휴식-레져-쇼핑 원스톱으로!",
+    "title": "구로디지털단지역",
+    "line": "직통연결 1,095실",
+    "type": "대단지 오피스텔",
+    "slides": [
+      "mainVisual_img_01",
+      "mainVisual_img_02",
+      "mainVisual_img_03"
+    ]
+  },
+  "facts": [
+    [
+      "현장명",
+      "GD METRO TOWER"
+    ],
+    [
+      "대지위치",
+      "영등포구 대림2동 1104-1 번지 외 4필지"
+    ],
+    [
+      "건축규모",
+      "지하7층, 지상40층"
+    ],
+    [
+      "최고높이",
+      "143.95m"
+    ],
+    [
+      "대지면적",
+      "11,260.10m²"
+    ],
+    [
+      "건축면적",
+      "6,271.9891m²"
+    ],
+    [
+      "연면적",
+      "138,697.1712m²"
+    ],
+    [
+      "건폐율",
+      "55.7010%"
+    ],
+    [
+      "용적율",
+      "802.1593%"
+    ]
+  ],
+  "features": [
+    [
+      "구로디지털단지역",
+      "직통연결",
+      "intro_img_01.jpg"
+    ],
+    [
+      "40층 1,095호실",
+      "트윈타워",
+      "intro_img_02.jpg"
+    ],
+    [
+      "G밸리의 풍부한",
+      "배후수요",
+      "intro_img_03.jpg"
+    ]
+  ],
+  "premiums": [
+    {
+      "en": "Transportation",
+      "title": "더 빠른 교통의 아이콘",
+      "text": "구로디지털단지역과 직통연결, 신안산선(예정), 남부순환로 등 서울 전역으로 어디든 빠르게 연결되는 교통"
+    },
+    {
+      "en": "Demand",
+      "title": "더 많은 수요의 아이콘",
+      "text": "G밸리 중심, 서울디지털산업단지, 여의도업무지구 등 풍부한 수요로 안정적인 임대 수요 확보"
+    },
+    {
+      "en": "Vision",
+      "title": "더 높은 비전의 아이콘",
+      "text": "사업지 주변 모아타운, 신통기획, 3080 도심공공개발 등과 더불어 1,095호실 40층 트윈타워로 독보적인 랜드마크"
+    },
+    {
+      "en": "Culture",
+      "title": "더 많은 문화의 아이콘",
+      "text": "이마트, 현대아울렛, 강남성심병원 등 단지 인근의 풍부한 편의 시설로 편리하고 다양한 생활 문화 환경"
+    },
+    {
+      "en": "Life",
+      "title": "더 많은 생활의 아이콘",
+      "text": "피트니스, 게스트하우스, 실내골프연습장, 북카페/작은 도서관, 코인세탁실, 계절창고(유료 선택사항)로 높은 생활 만족도"
+    }
+  ],
+  "footer": [
+    "시공 · 시행 : (주) 비와이씨",
+    "※ 본 사이트의 소비자의 이해를 돕기 위해 사전홍보용으로 제작된 것으로 실제와 다를 수 있으니 견본주택 및 현장을 방문하시어 직접 확인하시기 바랍니다."
+  ],
+  "sources": {
+    "home": "https://gdmetro.com/teaser/index.asp",
+    "overview": "https://gdmetro.com/teaser/intro/info_intro.asp",
+    "location": "https://gdmetro.com/teaser/location/",
+    "premium": "https://gdmetro.com/teaser/premium/"
+  },
+  "siteOperator": {
+    "name": "이상훈",
+    "phone": "1877-2027",
+    "email": "realestateinfo@naver.com",
+    "siteAddress": "서울특별시 영등포구 대림2동 1104-1번지 외 4필지"
+  }
+}
+
