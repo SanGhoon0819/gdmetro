@@ -6,7 +6,7 @@ test('seven independent HTML pages have crawlable content, no unauthorized media
   const html=read('dist/'+p);assert.match(html,/<html lang="ko">/);assert.equal((html.match(/<h1>/g)||[]).length,1);assert.match(html,/name="description"/);assert.match(html,/noindex,nofollow/);assert.doesNotMatch(html,/오시는길|오시는 길|youtube|vimeo|AI 분석|제작 보고|사용 권한|사용자의 대화/);
   for(const asset of html.matchAll(/(?:src|srcset)="\/assets\/([^"]+)"/g))assert.ok(fs.existsSync(new URL('dist/assets/'+asset[1],root)),asset[1]);
  }
- assert.match(read('dist/types/index.html'),/준비중입니다/);assert.match(read('dist/register/index.html'),/class="primary" disabled/);
+ assert.match(read('dist/types/index.html'),/53D TYPE/);assert.match(read('dist/types/index.html'),/24.6107㎡/);assert.match(read('dist/types/index.html'),/2031년 3월 입주 예정/);assert.match(read('dist/register/index.html'),/class="primary" disabled/);
 });
 test('unverified release is blocked',()=>{const result=spawnSync(process.execPath,['build.mjs','--production'],{cwd:root,encoding:'utf8'});assert.notEqual(result.status,0);assert.match(result.stderr,/Release configuration incomplete/)});
 test('configured release generates matching canonical, sitemap, verification and approved articles only',()=>{

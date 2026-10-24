@@ -205,13 +205,205 @@
     "home": "https://gdmetro.com/teaser/index.asp",
     "overview": "https://gdmetro.com/teaser/intro/info_intro.asp",
     "location": "https://gdmetro.com/teaser/location/",
-    "premium": "https://gdmetro.com/teaser/premium/"
+    "premium": "https://gdmetro.com/teaser/premium/",
+    "plans": "https://www.gdmetro.com/grand/type/type_info.asp",
+    "notice": "사용자 제공 summary_notice.pdf (분양광고일 2026.10.22)"
   },
   "siteOperator": {
     "name": "이상훈",
     "phone": "1877-2027",
     "email": "realestateinfo@naver.com",
     "siteAddress": "서울특별시 영등포구 대림2동 1104-1번지 외 4필지"
+  },
+  "plans": [
+    {
+      "id": "plan24a",
+      "group": "24㎡",
+      "label": "24A",
+      "area": "24.6107",
+      "count": 160,
+      "image": "plan-24a.jpg",
+      "description": "B동 160실 · 공식 평면도 기준"
+    },
+    {
+      "id": "plan24b",
+      "group": "24㎡",
+      "label": "24B",
+      "area": "24.5135",
+      "count": 104,
+      "image": "plan-24b.jpg",
+      "description": "B동 104실 · 공식 평면도 기준"
+    },
+    {
+      "id": "plan24c",
+      "group": "24㎡",
+      "label": "24C",
+      "area": "24.9177",
+      "count": 8,
+      "image": "plan-24c.jpg",
+      "description": "B동 8실 · 공식 평면도 기준"
+    },
+    {
+      "id": "plan24d",
+      "group": "24㎡",
+      "label": "24D",
+      "area": "25.0149",
+      "count": 8,
+      "image": "plan-24d.jpg",
+      "description": "B동 8실 · 공식 평면도 기준"
+    },
+    {
+      "id": "plan28a",
+      "group": "28㎡",
+      "label": "28A",
+      "area": "28.9709",
+      "count": 160,
+      "image": "plan-28a.jpg",
+      "description": "B동 160실 · 공식 평면도 기준"
+    },
+    {
+      "id": "plan28b",
+      "group": "28㎡",
+      "label": "28B",
+      "area": "28.8737",
+      "count": 104,
+      "image": "plan-28b.jpg",
+      "description": "B동 104실 · 공식 평면도 기준"
+    },
+    {
+      "id": "plan28c",
+      "group": "28㎡",
+      "label": "28C",
+      "area": "28.5943",
+      "count": 40,
+      "image": "plan-28c.jpg",
+      "description": "B동 40실 · 공식 평면도 기준"
+    },
+    {
+      "id": "plan28d",
+      "group": "28㎡",
+      "label": "28D",
+      "area": "28.3999",
+      "count": 26,
+      "image": "plan-28d.jpg",
+      "description": "B동 26실 · 공식 평면도 기준"
+    },
+    {
+      "id": "plan28e",
+      "group": "28㎡",
+      "label": "28E",
+      "area": "28.8041",
+      "count": 2,
+      "image": "plan-28e.jpg",
+      "description": "B동 2실 · 공식 평면도 기준"
+    },
+    {
+      "id": "plan28f",
+      "group": "28㎡",
+      "label": "28F",
+      "area": "28.9985",
+      "count": 2,
+      "image": "plan-28f.jpg",
+      "description": "B동 2실 · 공식 평면도 기준"
+    },
+    {
+      "id": "plan29a",
+      "group": "29㎡",
+      "label": "29A",
+      "area": "29.3751",
+      "count": 8,
+      "image": "plan-29a.jpg",
+      "description": "B동 8실 · 공식 평면도 기준"
+    },
+    {
+      "id": "plan29b",
+      "group": "29㎡",
+      "label": "29B",
+      "area": "29.2779",
+      "count": 8,
+      "image": "plan-29b.jpg",
+      "description": "B동 8실 · 공식 평면도 기준"
+    },
+    {
+      "id": "plan45a",
+      "group": "45㎡",
+      "label": "45A",
+      "area": "45.7804",
+      "count": 40,
+      "image": "plan-45a.jpg",
+      "description": "B동 40실 · 공식 평면도 기준"
+    },
+    {
+      "id": "plan45b",
+      "group": "45㎡",
+      "label": "45B",
+      "area": "45.6604",
+      "count": 26,
+      "image": "plan-45b.jpg",
+      "description": "B동 26실 · 공식 평면도 기준"
+    },
+    {
+      "id": "plan46a",
+      "group": "46㎡",
+      "label": "46A",
+      "area": "46.1846",
+      "count": 2,
+      "image": "plan-46a.jpg",
+      "description": "B동 2실 · 공식 평면도 기준"
+    },
+    {
+      "id": "plan46b",
+      "group": "46㎡",
+      "label": "46B",
+      "area": "46.0646",
+      "count": 2,
+      "image": "plan-46b.jpg",
+      "description": "B동 2실 · 공식 평면도 기준"
+    },
+    {
+      "id": "plan53a",
+      "group": "53㎡",
+      "label": "53A",
+      "area": "53.5700",
+      "count": 40,
+      "image": "plan-53a.jpg",
+      "description": "B동 40실 · 공식 평면도 기준"
+    },
+    {
+      "id": "plan53b",
+      "group": "53㎡",
+      "label": "53B",
+      "area": "53.4500",
+      "count": 26,
+      "image": "plan-53b.jpg",
+      "description": "B동 26실 · 공식 평면도 기준"
+    },
+    {
+      "id": "plan53c",
+      "group": "53㎡",
+      "label": "53C",
+      "area": "53.8542",
+      "count": 2,
+      "image": "plan-53c.jpg",
+      "description": "B동 2실 · 공식 평면도 기준"
+    },
+    {
+      "id": "plan53d",
+      "group": "53㎡",
+      "label": "53D",
+      "area": "53.9742",
+      "count": 2,
+      "image": "plan-53d.jpg",
+      "description": "B동 2실 · 공식 평면도 기준"
+    }
+  ],
+  "sale": {
+    "moveIn": "2031년 3월 입주 예정",
+    "moveInNote": "공정에 따라 변경될 수 있으며 정확한 입주일정은 추후 안내됩니다.",
+    "benefit": "중도금 60% 무이자",
+    "benefitNote": "분양금액의 최대 60% 범위 내 대출 알선. 대출 실행일부터 입주지정기간 최초일 전일까지 사업주체가 이자를 부담하며, 이후 이자는 계약자 부담입니다. 대출 가능 여부와 한도는 금융기관 심사에 따라 달라질 수 있습니다.",
+    "payment": "계약금 10% · 중도금 60% · 잔금 30%",
+    "schedule": "청약 2026.10.27~28 · 당첨자 발표 11.02 · 계약 11.05~07",
+    "open": "2026년 10월 23일 견본주택 개관"
   }
 }
-
